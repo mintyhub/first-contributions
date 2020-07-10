@@ -2582,3 +2582,4 @@ amin-da
 - [Sterling Watts](https://github.com/SterlingDWatts)
 - [Filipe Estacio](https://github.com/filipeestacio)
 - [Kyungmin Lee](https://github.com/rekyungmin)
+- [Seima Okon](https://github.com/mintyhub)
